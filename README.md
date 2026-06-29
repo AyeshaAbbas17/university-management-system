@@ -227,5 +227,6 @@ Key features include:
 
 ## Team
 
-- **Ayesha Abbas **
-- **Hooria Zainab **
+**Ayesha Abbas**
+**Hooria Zainab**
+
