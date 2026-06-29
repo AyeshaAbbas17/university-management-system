@@ -227,6 +227,8 @@ Key features include:
 
 ## Team
 
-**Ayesha Abbas**
-**Hooria Zainab**
+## Team
+
+- **Ayesha Abbas (FA25-BCS-020)**
+- **Hooria Zainab (FA25-BCS-042)**
 
