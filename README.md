@@ -225,9 +225,6 @@ Key features include:
 
 ---
 
-## Team
-
-## Team
 
 ## Team
 
