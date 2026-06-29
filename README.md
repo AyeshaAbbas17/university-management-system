@@ -12,7 +12,7 @@ The application provides dedicated dashboards for administrators, teachers, and 
 
 ### Academic Management
 
-- Department management and performance reporting
+- Department performance reporting
 - Course creation and deletion
 - Student enrollment and removal
 - Assignment management
